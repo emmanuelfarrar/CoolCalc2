@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
 
 
         ImageButton calcBtn = findViewById(R.id.calcBtn);
-        
+
 
     }
 }
