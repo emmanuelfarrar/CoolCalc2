@@ -14,12 +14,25 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
 
-        //Event listeners
+        //Event listeners variables
         Button oneBtn = findViewById(R.id.oneBtn);
         Button twoBtn = findViewById(R.id.twoBtn);
+        Button threeBtn = findViewById(R.id.threeBtn);
+        Button fourBtn = findViewById(R.id.fourBtn);
+        Button fiveBtn = findViewById(R.id.fiveBtn);
+        Button sixBtn = findViewById(R.id.sixBtn);
+        Button sevenBtn = findViewById(R.id.sevenBtn);
+        Button eightBtn = findViewById(R.id.eightBtn);
+        Button nineBtn = findViewById(R.id.nineBtn);
+        Button zeroBtn = findViewById(R.id.zeroBtn);
 
 
         ImageButton calcBtn = findViewById(R.id.calcBtn);
+        ImageButton divideBtn = findViewById(R.id.divideBtn);
+        ImageButton multiplyBtn = findViewById(R.id.multiplyBtn);
+        ImageButton subtractBtn = findViewById(R.id.subtractBtn);
+        ImageButton addBtn = findViewById(R.id.addBtn);
+
         
 
     }
